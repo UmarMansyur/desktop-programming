@@ -1,0 +1,6 @@
+CREATE TABLE `product`(
+    `kode` BIGINT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `nama` BIGINT NOT NULL,
+    `kategori` BIGINT NOT NULL,
+    `stock` BIGINT NOT NULL
+);

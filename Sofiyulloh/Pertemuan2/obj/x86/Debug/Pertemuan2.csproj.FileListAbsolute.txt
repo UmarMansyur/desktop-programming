@@ -1,0 +1,7 @@
+E:\FILE KULIAH\SEMESTER 5\1. PRAKTIKUM\visual\Pertemuan2\Pertemuan2\bin\Debug\Pertemuan2.exe
+E:\FILE KULIAH\SEMESTER 5\1. PRAKTIKUM\visual\Pertemuan2\Pertemuan2\bin\Debug\Pertemuan2.pdb
+E:\FILE KULIAH\SEMESTER 5\1. PRAKTIKUM\visual\Pertemuan2\Pertemuan2\obj\x86\Debug\Pertemuan2.Form1.resources
+E:\FILE KULIAH\SEMESTER 5\1. PRAKTIKUM\visual\Pertemuan2\Pertemuan2\obj\x86\Debug\Pertemuan2.Properties.Resources.resources
+E:\FILE KULIAH\SEMESTER 5\1. PRAKTIKUM\visual\Pertemuan2\Pertemuan2\obj\x86\Debug\Pertemuan2.csproj.GenerateResource.Cache
+E:\FILE KULIAH\SEMESTER 5\1. PRAKTIKUM\visual\Pertemuan2\Pertemuan2\obj\x86\Debug\Pertemuan2.exe
+E:\FILE KULIAH\SEMESTER 5\1. PRAKTIKUM\visual\Pertemuan2\Pertemuan2\obj\x86\Debug\Pertemuan2.pdb
