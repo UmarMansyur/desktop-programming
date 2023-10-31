@@ -17,7 +17,7 @@ Saat membuat program yang berhubungan dengan database. Pasti ada salah satu fitu
 1. Buatlah folder dengan nama Models.
 2. Buatlah file dengan nama BaseModels.
 3. Di dalam class BaseModels, tuliskan kode berikut
-```
+``` c#
   public void Create(IDictionary<string, object> request)
     {
         MySqlCommand _command = _connection.getConnection().CreateCommand();
