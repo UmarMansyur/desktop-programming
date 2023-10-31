@@ -11,6 +11,75 @@
 
 Silahkan buat folder dengan nama kalian, kemudian push kode yang telah dibuat ke repositori ini.
 
+### Singleton Connection
+Koneksi ke database merupakan hal yang sangat umum digunakan dalam pembuatan aplikasi. Koneksi yang dibuat dalam bentuk class dapat digunakan dengan memanggil objek dari class tersebut. Ketika ada keadaan yang memaksa untuk membuat koneksi, maka object akan terus dibuat sehingga jangan heran jika aplikasi yang sedang dikembangkan memakan RAM yang sangat besar. Untuk mengatasi hal tersebut konsep singleton dapat digunakan. Berikut adalah kode untuk membuat koneksi dengan singleton.
+
+```c#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using MySql.Data.MySqlClient;
+using System.Windows.Forms;
+namespace crud.Config
+{
+    class Connection
+    {
+        private static Connection instance;
+        private static MySqlConnection connection;
+        private readonly string url = "datasource=localhost;username=root;password=;database=store;Convert Zero Datetime=True";
+
+        private Connection()
+        {
+            try
+            {
+                connection = new MySqlConnection(this.url);
+            }
+            catch (Exception err)
+            {
+                MessageBox.Show(err.Message);
+            }
+        }
+
+        public MySqlConnection getConnection()
+        {
+            return connection;
+        }
+
+        public MySqlDataReader Query(string sql)
+        {
+            try
+            {
+                MySqlDataReader response;
+                connection.Close();
+                connection.Open();
+                MySqlCommand query = new MySqlCommand(sql, getConnection());
+                query.ExecuteNonQuery();
+                response = query.ExecuteReader();
+                return response;
+            }
+            catch (Exception err){
+                MessageBox.Show(err.Message);
+            }
+            return null;
+        }
+
+        public static Connection getInstance()
+        {
+            if (instance == null)
+            {
+                instance = new Connection();
+            }
+            return instance;
+
+        }
+        
+    }
+}
+
+
+```
+
 ### Query Builder
 Saat membuat program yang berhubungan dengan database. Pasti ada salah satu fitur dari CRUD yang akan digunakan. Untuk membuat kode menjadi lebih efektif dan efisien, query builder dapat menjadi pilihan tepat. Hal tersebut dikarenakan penggunaannya yang dapat meringkat query serta dapat digunakan secara berulang. Untuk membuat query builder di .net, dapat mengikuti tahapan berikut ini:
 
