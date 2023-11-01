@@ -1,0 +1,12 @@
+CREATE TABLE `kategori`(
+    `id_kategori` BIGINT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `anak-anak` VARCHAR(255) NOT NULL,
+    `remaja` VARCHAR(255) NOT NULL,
+    `dewasa` VARCHAR(255) NOT NULL,
+    `column_5` BIGINT NOT NULL
+);
+CREATE TABLE `produk`(
+    `kode_produk` BIGINT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `nama_produk` VARCHAR(255) NOT NULL,
+    `stok` VARCHAR(255) NOT NULL
+);
