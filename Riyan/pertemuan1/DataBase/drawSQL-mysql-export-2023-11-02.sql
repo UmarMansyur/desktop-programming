@@ -5,7 +5,5 @@ CREATE TABLE `produks`(
 );
 CREATE TABLE `kategori`(
     `id_kategori` BIGINT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    `anak_anak` VARCHAR(255) NOT NULL,
-    `remaja` VARCHAR(255) NOT NULL,
-    `dewasa` VARCHAR(255) NOT NULL
+    `nama_kategori` VARCHAR(255) NOT NULL
 );
