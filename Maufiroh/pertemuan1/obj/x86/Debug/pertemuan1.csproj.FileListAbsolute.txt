@@ -1,0 +1,15 @@
+E:\FILE KULIAH\SEMESTER 5\1. PRAKTIKUM\pertemuan1\pertemuan1\pertemuan1\bin\Debug\pertemuan1.exe
+E:\FILE KULIAH\SEMESTER 5\1. PRAKTIKUM\pertemuan1\pertemuan1\pertemuan1\bin\Debug\pertemuan1.pdb
+E:\FILE KULIAH\SEMESTER 5\1. PRAKTIKUM\pertemuan1\pertemuan1\pertemuan1\obj\x86\Debug\pertemuan1.Form1.resources
+E:\FILE KULIAH\SEMESTER 5\1. PRAKTIKUM\pertemuan1\pertemuan1\pertemuan1\obj\x86\Debug\pertemuan1.Properties.Resources.resources
+E:\FILE KULIAH\SEMESTER 5\1. PRAKTIKUM\pertemuan1\pertemuan1\pertemuan1\obj\x86\Debug\pertemuan1.csproj.GenerateResource.Cache
+E:\FILE KULIAH\SEMESTER 5\1. PRAKTIKUM\pertemuan1\pertemuan1\pertemuan1\obj\x86\Debug\pertemuan1.exe
+E:\FILE KULIAH\SEMESTER 5\1. PRAKTIKUM\pertemuan1\pertemuan1\pertemuan1\obj\x86\Debug\pertemuan1.pdb
+C:\Users\Mamak\Documents\nitip\pertemuan1\obj\x86\Debug\pertemuan1.exe
+C:\Users\Mamak\Documents\nitip\pertemuan1\obj\x86\Debug\pertemuan1.pdb
+C:\Users\Mamak\Documents\nitip\pertemuan1\obj\x86\Debug\pertemuan1.Properties.Resources.resources
+C:\Users\Mamak\Documents\nitip\pertemuan1\obj\x86\Debug\pertemuan1.csproj.GenerateResource.Cache
+C:\Users\Mamak\Documents\nitip\pertemuan1\bin\Debug\pertemuan1.exe
+C:\Users\Mamak\Documents\nitip\pertemuan1\bin\Debug\pertemuan1.pdb
+C:\Users\Mamak\Documents\nitip\pertemuan1\obj\x86\Debug\pertemuan1.csprojResolveAssemblyReference.cache
+C:\Users\Mamak\Documents\nitip\pertemuan1\obj\x86\Debug\pertemuan1.produk.resources
