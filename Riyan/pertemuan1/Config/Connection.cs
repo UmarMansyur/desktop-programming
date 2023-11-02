@@ -11,7 +11,7 @@ namespace pertemuan1.Config
     {
         private static Connection instance;
         private static MySqlConnection connection;
-        private readonly string url = "datasource=localhost;username=root;password=;database=store;Convert Zero Datetime=True";
+        private readonly string url = "datasource=localhost;username=root;password=;database=toko;Convert Zero Datetime=True";
 
         private Connection()
         {
