@@ -1,0 +1,8 @@
+C:\Users\Mamak\Documents\nitip\task_2\sore\ComboBox\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\Mamak\Documents\nitip\task_2\sore\ComboBox\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\Mamak\Documents\nitip\task_2\sore\ComboBox\ComboBox\bin\Debug\MySql.Data.dll
+C:\Users\Mamak\Documents\nitip\task_2\sore\ComboBox\ComboBox\obj\x86\Debug\ComboBox.Form1.resources
+C:\Users\Mamak\Documents\nitip\task_2\sore\ComboBox\ComboBox\obj\x86\Debug\ComboBox.Properties.Resources.resources
+C:\Users\Mamak\Documents\nitip\task_2\sore\ComboBox\ComboBox\obj\x86\Debug\ComboBox.csproj.GenerateResource.Cache
+C:\Users\Mamak\Documents\nitip\task_2\sore\ComboBox\ComboBox\obj\x86\Debug\ComboBox.exe
+C:\Users\Mamak\Documents\nitip\task_2\sore\ComboBox\ComboBox\obj\x86\Debug\ComboBox.pdb
