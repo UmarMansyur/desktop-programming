@@ -1,5 +1,9 @@
 # Repositori Praktikum Visual
 
+### TUGAS BARU
+
+Silahkan kerjakan tugas yang ada di ComboBox/README.md
+
 ### Tugas
 1. Buatlah database dari program yang kalian buat.
 2. Export database tersebut lalu letakkan ke dalam folder **Database**.
