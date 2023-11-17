@@ -1,0 +1,7 @@
+D:\DATA KULIAH\Semester 5\Pemograman Visual\tugasss\tugasss\obj\x86\Debug\tugasss.Form1.resources
+D:\DATA KULIAH\Semester 5\Pemograman Visual\tugasss\tugasss\obj\x86\Debug\tugasss.Properties.Resources.resources
+D:\DATA KULIAH\Semester 5\Pemograman Visual\tugasss\tugasss\obj\x86\Debug\tugasss.csproj.GenerateResource.Cache
+D:\DATA KULIAH\Semester 5\Pemograman Visual\tugasss\tugasss\bin\Debug\tugasss.exe
+D:\DATA KULIAH\Semester 5\Pemograman Visual\tugasss\tugasss\bin\Debug\tugasss.pdb
+D:\DATA KULIAH\Semester 5\Pemograman Visual\tugasss\tugasss\obj\x86\Debug\tugasss.exe
+D:\DATA KULIAH\Semester 5\Pemograman Visual\tugasss\tugasss\obj\x86\Debug\tugasss.pdb
