@@ -1,0 +1,8 @@
+D:\Dokumen Asih\Dokumen Praktikum\Semester 5\Pemograman Visual\desktop-programming\ComboBox\Tugas\Siti Ririn Sutarsih\comboBox\comboBox\bin\Debug\comboBox.exe
+D:\Dokumen Asih\Dokumen Praktikum\Semester 5\Pemograman Visual\desktop-programming\ComboBox\Tugas\Siti Ririn Sutarsih\comboBox\comboBox\bin\Debug\comboBox.pdb
+D:\Dokumen Asih\Dokumen Praktikum\Semester 5\Pemograman Visual\desktop-programming\ComboBox\Tugas\Siti Ririn Sutarsih\comboBox\comboBox\obj\x86\Debug\comboBox.Form1.resources
+D:\Dokumen Asih\Dokumen Praktikum\Semester 5\Pemograman Visual\desktop-programming\ComboBox\Tugas\Siti Ririn Sutarsih\comboBox\comboBox\obj\x86\Debug\comboBox.Properties.Resources.resources
+D:\Dokumen Asih\Dokumen Praktikum\Semester 5\Pemograman Visual\desktop-programming\ComboBox\Tugas\Siti Ririn Sutarsih\comboBox\comboBox\obj\x86\Debug\comboBox.csproj.GenerateResource.Cache
+D:\Dokumen Asih\Dokumen Praktikum\Semester 5\Pemograman Visual\desktop-programming\ComboBox\Tugas\Siti Ririn Sutarsih\comboBox\comboBox\obj\x86\Debug\comboBox.exe
+D:\Dokumen Asih\Dokumen Praktikum\Semester 5\Pemograman Visual\desktop-programming\ComboBox\Tugas\Siti Ririn Sutarsih\comboBox\comboBox\obj\x86\Debug\comboBox.pdb
+D:\Dokumen Asih\Dokumen Praktikum\Semester 5\Pemograman Visual\desktop-programming\ComboBox\Tugas\Siti Ririn Sutarsih\comboBox\comboBox\obj\x86\Debug\comboBox.csprojResolveAssemblyReference.cache
